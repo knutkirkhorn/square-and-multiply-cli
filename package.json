@@ -1,6 +1,6 @@
 {
   "name": "square-and-multiply-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the square and multiply CLI",
   "repository": "Knutakir/square-and-multiply-cli",
   "bin": {
