@@ -2,6 +2,7 @@
   "name": "square-and-multiply-cli",
   "version": "1.0.0",
   "description": "Get the square and multiply CLI",
+  "repository": "Knutakir/square-and-multiply-cli",
   "bin": {
     "square-and-multiply": "cli.js",
     "square-and-multiply-cli": "cli.js"
