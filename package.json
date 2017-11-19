@@ -1,0 +1,26 @@
+{
+  "name": "square-and-multiply-cli",
+  "version": "1.0.0",
+  "description": "Get the square and multiply CLI",
+  "bin": {
+    "square-and-multiply": "cli.js",
+    "square-and-multiply-cli": "cli.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "square",
+    "and",
+    "multiply",
+    "math",
+    "cli"
+  ],
+  "author": "Knut Kirkhorn",
+  "license": "MIT",
+  "dependencies": {
+    "meow": "^3.7.0",
+    "square-and-multiply": "^1.0.0"
+  }
+}
