@@ -21,5 +21,5 @@ $ square-and-multiply --help
 ## Related
 - [square-and-multiply](https://github.com/Knutakir/square-and-multiply) - API for this module
 
-## Licence
+## License
 MIT © [Knut Kirkhorn](LICENSE)
