@@ -1,5 +1,5 @@
 # square-and-multiply-cli
-Get the square and multiply of the base, the exponent and the modulus CLI
+> Get the square and multiply of the base, the exponent and the modulus CLI
 
 ## Installation
 ```
