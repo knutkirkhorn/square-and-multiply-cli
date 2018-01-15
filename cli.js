@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-'use strict;'
+'use strict';
 const squareAndMultiply = require('square-and-multiply');
 const meow = require('meow');
 
