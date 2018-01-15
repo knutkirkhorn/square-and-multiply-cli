@@ -1,4 +1,4 @@
-# square-and-multiply-cli
+# square-and-multiply-cli [![Build Status](https://travis-ci.org/Knutakir/square-and-multiply-cli.svg?branch=master)](https://travis-ci.org/Knutakir/square-and-multiply-cli)
 > Get the square and multiply of the base, the exponent and the modulus CLI
 
 ## Installation
