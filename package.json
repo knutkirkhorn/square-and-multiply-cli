@@ -21,11 +21,11 @@
   "author": "Knut Kirkhorn",
   "license": "MIT",
   "dependencies": {
-    "meow": "^5.0.0",
+    "meow": "^8.1.0",
     "square-and-multiply": "^1.0.3"
   },
   "devDependencies": {
-    "ava": "^2.2.0",
-    "execa": "^2.0.3"
+    "ava": "^3.14.0",
+    "execa": "^5.0.0"
   }
 }
