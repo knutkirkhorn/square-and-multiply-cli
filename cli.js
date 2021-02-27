@@ -1,5 +1,7 @@
 #!/usr/bin/env node
+
 'use strict';
+
 const squareAndMultiply = require('square-and-multiply');
 const meow = require('meow');
 
@@ -17,7 +19,7 @@ const exponent = cli.input[1];
 const modulus = cli.input[2];
 
 if (!(basis && exponent && modulus)) {
-    console.log("You need to specify all three numbers.");
+    console.log('You need to specify all three numbers.');
     process.exit(1);
 }
 
