@@ -1,4 +1,4 @@
-# square-and-multiply-cli [![Build Status](https://travis-ci.org/Knutakir/square-and-multiply-cli.svg?branch=main)](https://travis-ci.org/Knutakir/square-and-multiply-cli)
+# square-and-multiply-cli [![Build Status](https://travis-ci.org/knutkirkhorn/square-and-multiply-cli.svg?branch=main)](https://travis-ci.org/knutkirkhorn/square-and-multiply-cli)
 > Get the square and multiply of the base, the exponent and the modulus CLI
 
 ## Installation
@@ -19,7 +19,7 @@ $ square-and-multiply --help
 ```
 
 ## Related
-- [square-and-multiply](https://github.com/Knutakir/square-and-multiply) - API for this module
+- [square-and-multiply](https://github.com/knutkirkhorn/square-and-multiply) - API for this module
 
 ## License
 MIT © [Knut Kirkhorn](LICENSE)
