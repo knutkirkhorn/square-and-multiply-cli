@@ -4,8 +4,7 @@
   "description": "Get the square and multiply CLI",
   "repository": "knutkirkhorn/square-and-multiply-cli",
   "bin": {
-    "square-and-multiply": "cli.js",
-    "square-and-multiply-cli": "cli.js"
+    "square-and-multiply": "cli.js"
   },
   "main": "index.js",
   "scripts": {
