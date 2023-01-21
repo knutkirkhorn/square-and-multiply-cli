@@ -1,6 +1,6 @@
 {
   "name": "square-and-multiply-cli",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Get the square and multiply CLI",
   "repository": "knutkirkhorn/square-and-multiply-cli",
   "bin": {
