@@ -1,12 +1,15 @@
 # square-and-multiply-cli
+
 > Get the square and multiply of the base, the exponent and the modulus CLI
 
 ## Installation
+
 ```
 $ npm install --global square-and-multiply-cli
 ```
 
 ## Usage
+
 ```
 $ square-and-multiply --help
 
@@ -19,7 +22,5 @@ $ square-and-multiply --help
 ```
 
 ## Related
-- [square-and-multiply](https://github.com/knutkirkhorn/square-and-multiply) - API for this module
 
-## License
-MIT © [Knut Kirkhorn](LICENSE)
+- [square-and-multiply](https://github.com/knutkirkhorn/square-and-multiply) - API for this module
