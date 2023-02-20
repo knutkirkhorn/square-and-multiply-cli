@@ -1,37 +1,44 @@
 {
-  "name": "square-and-multiply-cli",
-  "version": "2.0.1",
-  "description": "Get the square and multiply CLI",
-  "repository": "knutkirkhorn/square-and-multiply-cli",
-  "bin": {
-    "square-and-multiply": "cli.js"
-  },
-  "main": "index.js",
-  "scripts": {
-    "test": "ava",
-    "lint": "eslint ."
-  },
-  "files": [
-    "cli.js"
-  ],
-  "keywords": [
-    "square",
-    "and",
-    "multiply",
-    "math",
-    "cli"
-  ],
-  "author": "Knut Kirkhorn",
-  "license": "MIT",
-  "dependencies": {
-    "meow": "^8.1.0",
-    "square-and-multiply": "^1.0.5"
-  },
-  "devDependencies": {
-    "ava": "^3.15.0",
-    "eslint": "^7.26.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.22.1",
-    "execa": "^5.0.0"
-  }
+	"name": "square-and-multiply-cli",
+	"version": "2.0.1",
+	"description": "Get the square and multiply CLI",
+	"repository": "knutkirkhorn/square-and-multiply-cli",
+	"bin": {
+		"square-and-multiply": "cli.js"
+	},
+	"scripts": {
+		"test": "ava",
+		"lint": "eslint ."
+	},
+	"files": [
+		"cli.js"
+	],
+	"keywords": [
+		"square",
+		"and",
+		"multiply",
+		"math",
+		"cli"
+	],
+	"author": "Knut Kirkhorn",
+	"type": "module",
+	"exports": "./index.js",
+	"types": "./index.d.ts",
+	"engines": {
+		"node": ">=14.16"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"meow": "^11.0.0",
+		"square-and-multiply": "^2.0.0"
+	},
+	"devDependencies": {
+		"ava": "^5.2.0",
+		"eslint": "^8.34.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-plugin-ava": "^14.0.0",
+		"eslint-plugin-import": "^2.27.5",
+		"eslint-plugin-unicorn": "^45.0.2",
+		"execa": "^7.0.0"
+	}
 }

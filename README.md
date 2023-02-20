@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-$ npm install --global square-and-multiply-cli
+npm install --global square-and-multiply-cli
 ```
 
 ## Usage
@@ -13,12 +13,12 @@ $ npm install --global square-and-multiply-cli
 ```
 $ square-and-multiply --help
 
-        Usage
-          $ square-and-multiply <base> <exponent> <modulus>
-        
-        Examples
-          $ square-and-multiply 14 27 37
-          $ square-and-multiply 23 22 86
+  Usage
+    $ square-and-multiply <base> <exponent> <modulus>
+
+  Examples
+    $ square-and-multiply 14 27 37
+    $ square-and-multiply 23 22 86
 ```
 
 ## Related
